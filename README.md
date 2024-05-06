@@ -14,7 +14,7 @@ We design the dashboard in accordance with the patient's journey through the hos
 > We focus on the average number of patients' visits per hour in a day, allowing the hospital to prepare in advance. We use a polar chart the demonstrate the trends in a dial plate.
 
 <p align="center">
-<img src="./img/1.png" width="550" />
+<img src="./img/1.png" width="500" />
 </p>
 
 ### 2. Patients undergo a CT scan to diagnose the stroke, followed by TPA to break up the blood clot.
@@ -30,7 +30,7 @@ We design the dashboard in accordance with the patient's journey through the hos
 > We target the correlations between the time spent in the ICU and the neurology ward using a heatmap. The darker the color, the more patients there are.
 
 <p align="center">
-<img src="./img/3.png" width="600" />
+<img src="./img/3.png" width="550" />
 </p>
 
 ### 4. Patients are transferred to the neurology ward, where they are seen by a variety of medical specialists.
