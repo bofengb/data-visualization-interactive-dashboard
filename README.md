@@ -37,3 +37,10 @@ We design the dashboard in accordance with the patient's journey through the hos
 
 > We are interested in connections among patients visited by different medical specialists.
 
+<p align="center">
+<img src="./img/4.png" width="700" />
+</p>
+
+- The color of the points corresponds to the number of times both specialists have visited the patient. The darker the color, the more concurrence there is.
+
+- We use the textarea as an output displayer. Textarea is updated when triggered by dropdown menus. It shows the number of times two selected specialists checked on a patient together.
