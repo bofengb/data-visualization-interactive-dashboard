@@ -21,7 +21,13 @@ We design the dashboard in accordance with the patient's journey through the hos
 
 > We analyze the average CT waiting time per hour for different patient groups to verify whether patients got a timely diagnosis.
 
+<p align="center">
+<img src="./img/2.png" width="700" />
+</p>
 
+### 3. Some patients may spend some time in the ICU.
+
+> We target the correlations between the time spent in the ICU and the neurology ward using a heatmap. The darker the color, the more patients there are.
 
 
 
