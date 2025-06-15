@@ -1,7 +1,7 @@
 # Data Visualization - Interactive Dashboard
 
 ## Description
-Interactive dashboard can help customers to explore the data and understand underlying processes and trends by using interactive elements.
+Interactive dashboards can help customers explore the data and understand underlying processes and trends by using interactive elements.
 
 > In this project, I designed four interactive visualizations to better monitor the hospital’s processes around stroke care.
 
@@ -9,7 +9,7 @@ We design the dashboard in accordance with the patient's journey through the hos
 
 ## Interactive Dashboard
 
-### 1. Patients arrive to hospital in the emergency department.
+### 1. Patients arrive at the hospital in the emergency department.
 
 > We focus on the average number of patients' visits per hour in a day, allowing the hospital to prepare in advance. We use a polar chart the demonstrate the trends in a dial plate.
 
@@ -43,4 +43,4 @@ We design the dashboard in accordance with the patient's journey through the hos
 
 - The color of the points corresponds to the number of times both specialists have visited the patient. The darker the color, the more concurrence there is.
 
-- We use the textarea as an output displayer. Textarea is updated when triggered by dropdown menus. It shows the number of times two selected specialists checked on a patient together.
+- We use the textarea as an output monitor. Textarea is updated when triggered by dropdown menus. It shows the number of times two selected specialists checked on a patient together.
